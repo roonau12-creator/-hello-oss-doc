@@ -45,7 +45,11 @@ npm run dev
 
 ## Đóng góp
 
-Mọi đóng góp đều được hoan nghênh. Vui lòng mở issue hoặc pull request trên [GitHub](https://github.com/roonau12-creator/-hello-oss-doc).
+Mọi đóng góp đều được hoan nghênh! Vui lòng đọc [CONTRIBUTING.md](CONTRIBUTING.md) để biết hướng dẫn chi tiết về:
+
+- Cách báo lỗi (issue)
+- Cách gửi pull request
+- Quy tắc đặt tên commit
 
 ## Giấy phép
 
